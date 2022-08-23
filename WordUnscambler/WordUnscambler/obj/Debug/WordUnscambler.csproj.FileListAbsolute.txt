@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Kodowanie\036_WordUnscambler\WordUnscambler\WordUnscambler\bin\Debug\WordUnscambler.exe.config
+C:\Users\User\Desktop\Kodowanie\036_WordUnscambler\WordUnscambler\WordUnscambler\bin\Debug\WordUnscambler.exe
+C:\Users\User\Desktop\Kodowanie\036_WordUnscambler\WordUnscambler\WordUnscambler\bin\Debug\WordUnscambler.pdb
+C:\Users\User\Desktop\Kodowanie\036_WordUnscambler\WordUnscambler\WordUnscambler\obj\Debug\WordUnscambler.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Kodowanie\036_WordUnscambler\WordUnscambler\WordUnscambler\obj\Debug\WordUnscambler.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Kodowanie\036_WordUnscambler\WordUnscambler\WordUnscambler\obj\Debug\WordUnscambler.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Kodowanie\036_WordUnscambler\WordUnscambler\WordUnscambler\obj\Debug\WordUnscambler.exe
+C:\Users\User\Desktop\Kodowanie\036_WordUnscambler\WordUnscambler\WordUnscambler\obj\Debug\WordUnscambler.pdb
